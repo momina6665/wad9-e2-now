@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!DOCTYPE bookstore SYSTEM "books.dtd">
+<bookstore>
+    <book>
+        <title>Cartography and Network Security (CNS)</title>
+        <author>William Stallings</author>
+        <isbn>9780134527338</isbn>
+        <publisher>Pearson</publisher>
+        <edition>7</edition>
+        <price>780</price>
+    </book>
+    <book>
+        <title>Web Application Development (WAD)</title>
+        <author>Jeffrey C. Jackson</author>
+        <isbn>9780132597357</isbn>
+        <publisher>Pearson</publisher>
+        <edition>6</edition>
+        <price>650</price>
+    </book>
+    <book>
+        <title>Compiler Design (CD)</title>
+        <author>Alfred V. Aho</author>
+        <isbn>9780321486813</isbn>
+        <publisher>Pearson</publisher>
+        <edition>2</edition>
+        <price>810</price>
+    </book>
+    <book>
+        <title>Artificial Intelligence (AI)</title>
+        <author>Stuart Russell</author>
+        <isbn>9780136042594</isbn>
+        <publisher>Pearson</publisher>
+        <edition>3</edition>
+        <price>850</price>
+    </book>
+    <book>
+        <title>Introduction to C Programming (ICP)</title>
+        <author>Brian W. Kernighan</author>
+        <isbn>9780131103627</isbn>
+        <publisher>Prentice Hall</publisher>
+        <edition>2</edition>
+        <price>540</price>
+    </book>
+    <book>
+        <title>Nature and Environmental Studies</title>
+        <author>R. Rajagopalan</author>
+        <isbn>9780198067078</isbn>
+        <publisher>Oxford University Press</publisher>
+        <edition>3</edition>
+        <price>400</price>
+    </book>
+</bookstore>
